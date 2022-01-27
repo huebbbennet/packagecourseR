@@ -40,4 +40,3 @@ cheat <- function(sol_number){
 cheat(10)
 
 
-#Q3.2R
