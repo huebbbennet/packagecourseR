@@ -6,7 +6,7 @@ remind_me <- function() {
   return(c("paramesan", "pesto", "pasta", "tomatoes", "cumumber", "olive oil", 
           "garlic", "lemon", "onions"))
 }
-remind_me()
+
 
 
 #solution function 
@@ -37,6 +37,6 @@ cheat <- function(sol_number){
   }
   
 }
-cheat(10)
+
 
 
