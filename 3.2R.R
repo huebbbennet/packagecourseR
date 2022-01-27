@@ -25,7 +25,7 @@ cheat <- function(sol_number){
   }
   if (sol_number == "10"){
     return(c("install.packages('plotly')",
-             "library(plotly)", 
+             "library('plotly')", 
              "iris <- iris",
              "iris_ddd <- plot_ly(iris,", 
                               "x = ~Petal.Width,", 
